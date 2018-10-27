@@ -1,0 +1,364 @@
+#top{
+	width: 100%;
+	height: 50px;
+	height: 50px;
+	background: red;
+}
+#top img{
+	width: 100%;
+	height: 50px;
+}
+
+
+/* header  头部*/
+#headr{
+	
+	background:#333 ;
+	
+}
+#headr .container{
+	height: 40px;
+	overflow: hidden;
+}
+#headr .ul1{
+	margin-left: 100px;
+}
+#headr .ul1 li{
+	float: left;
+	line-height: 40px;
+	margin-right: 20px;
+	color: #fff;
+	font-size: 12px;	
+}
+#headr .ul2 li{
+	float: left;
+	padding: 0 11px ;
+	color: #fff;
+}
+#headr .ul2 li a{
+	line-height: 40px;
+	color: #fff;
+	font-size: 12px;
+}
+#headr .ul2 li:hover  a{
+	color: #CCCCCC;
+}
+
+/* logo*/
+#logo .container{
+	height: 219px;
+}
+#logo .shang{
+	
+	width: 98px;
+    height: 58px;
+    margin: 0 auto;
+    padding: 55px 0;
+}
+#logo .xia{
+	width: 1190px;
+	height: 50px;
+	/*background: red;*/
+	position: relative;
+}
+#logo .xia ul li{
+	float: left;
+	line-height: 50px;
+	margin-right:80px;
+	font-size: 20px;
+}
+#logo .xia ul li a{
+	color:#000000;
+}
+#logo .xia input{
+	margin-top:17px;
+	border-bottom: 1px solid #000000;	
+}
+ #logo .xia i{
+ 	position: absolute;
+ 	right:0px ;
+ 	top: 2px;
+ 	font-size: 30px;
+ }
+
+
+
+#xq .container{
+	height: 774px;
+	padding-top: 30px;
+
+}
+#xq .zuo{
+	width: 75px;
+	height: 510px;
+
+}
+
+#xq .zuo ul li img{
+	width: 66px;
+	height: 66px;
+	border:1px solid #ccc;
+	margin-left: 4px;
+	margin-top:4px;
+}
+
+
+
+
+#xq .zhong{
+	border: 1px solid #ccc;
+	width: 483px;
+	height: 485px;
+	overflow: hidden;
+}
+
+#xq .zhong img{
+	width:485px ;
+	height: 485px;
+}
+
+
+#xq .you{
+	width:585px ;
+	height:670px ;
+	margin-left: 45px;
+}
+#xq .you .shang{
+	border-bottom: 1px solid #ccc;
+	height: 270px;
+}
+#xq .you .shang img{
+	margin-left: 43px;
+	
+}
+
+#xq .you .shang .p20{
+	margin-top:30px;
+	margin-left: 20px;
+}
+
+#xq .you .shang .p21{
+	margin-top:30px;
+	margin-left: 20px;
+}
+#xq .you .shang .p21 span{
+	font-size: 25px;
+}
+
+#xq .you .shang .p22{
+	margin-top:30px;
+	margin-left: 20px;
+}
+
+#xq .you .zy {
+	padding-left: 30px;
+}
+#xq .you .zy .zxcv{
+	width: 585px;
+	height: 108px;
+}
+#xq .you .zy ul li{
+	float: left;
+	margin-right: 14px;
+	margin-top: 25px;
+}
+
+#xq .you .zy ul li img{
+	width: 66px;
+	height: 66px;
+	border: 1px solid #000000;
+}
+
+#xq .you .zy .zyt{
+	width: 554px;
+	height: 108px;
+}
+#xq .you .zy .zyt ul li{
+	margin-right: 30px;
+}
+
+#xq .you   input{
+	width: 63px;
+	height: 30px;
+	border: 1px solid #000000;
+}
+#xq .you .zt ul li{
+	float: left;
+	margin-right: 40px;
+}
+#xq .you .zt ul li button{
+	width: 200px;
+	height:60px ;
+	background: #000000;
+	color: #fff;
+	font-size: 34px;
+}
+#xq .you .zt{
+	padding-top:40px ;
+	padding-left: 30px;
+}
+
+
+#xinxi .container{
+	height: 515px;
+
+}
+
+#xinxi .t01 h3{
+	text-align: center;
+	font-size: 40px;
+}
+#xinxi .t02 ul li{
+	float: left;
+	margin-right: 104px;
+	
+	
+}
+#xinxi .t02{
+	margin-top: 60px;
+}
+#xinxi  .rry{
+	height: 60px;
+	border-bottom: 1px solid #ccc;
+}
+#xinxi  .rrt{
+	height: 60px;
+	border-bottom: 1px solid #ccc;
+}
+#xinxi  .rri{
+	height: 60px;
+	border-bottom: 1px solid #ccc;
+}
+
+
+#tupian .container{
+	height: 9195px;
+}
+
+
+#tupian ul li{
+	text-align: center;
+	margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#zp{
+		background: #333;
+		border-bottom: 1px solid #666;
+}
+#zp .container{
+	height: 116px;
+	background: #333;
+	
+	
+}
+#zp ul li{
+	float: left;
+	line-height: 116px;
+	font-size: 25px;
+	margin-right: 40px;
+}
+#zp ul li a{
+	color: #fff;
+	margin-left: 10px;
+}
+#zp ul li i{
+	color: #fff;
+}
+
+/*底部*/
+
+#dibu{
+	background: #333333;
+}
+#dibu .container{
+	height: 415px;
+}
+#dibu .shang{
+	height: 130px;
+	padding-top:20px;
+}
+#dibu .shang ul{
+	float: left;
+	margin-right: 70px;
+	line-height:30px;
+	
+}
+#dibu .shang ul li a{
+	color: #666;
+	font-size: 12px;
+}
+#dibu .shang .shang1{
+	color:#fff;
+}
+
+#dibu .shang  .dl1 a{
+	color:#fff ;
+}
+
+
+#dibu .zhong{
+	height: 207px;
+	/*background: #007AFF;*/
+}
+#dibu .zhong ul li{
+	float: left;
+	margin-right: 40px;
+}
+#dibu .zuo{
+	width: 600px;
+	height:207px ;
+	/*padding-top: 158px;*/
+	/*padding-left: 10px;*/
+}
+#dibu .zuo ul{
+	margin-top:130px;
+}
+
+#dibu .you{
+	width: 400px;
+	height: 207;
+	padding-top:40px;
+	padding-left: 50px;
+}
+#dibu .xia ul li {
+	margin-right: 20px;
+}
+#dibu .xia li{
+	float: left;
+
+}
+#dibu .xia ul li a{
+	color: #fff;
+	font-size: 12px;
+}
+#dibu .xia p{
+	color: #fff;
+	font-size: 12px;
+}

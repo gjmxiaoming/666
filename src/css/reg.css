@@ -1,0 +1,266 @@
+#headr{
+	
+	background:#333 ;
+	
+}
+#headr .container{
+	height: 40px;
+	overflow: hidden;
+}
+#headr .ul1{
+	margin-left: 100px;
+}
+#headr .ul1 li{
+	float: left;
+	line-height: 40px;
+	margin-right: 20px;
+	color: #fff;
+	font-size: 12px;	
+}
+#headr .ul2 li{
+	float: left;
+	padding: 0 11px ;
+	color: #fff;
+}
+#headr .ul2 li a{
+	line-height: 40px;
+	color: #fff;
+	font-size: 12px;
+}
+#headr .ul2 li:hover  a{
+	color: #CCCCCC;
+}
+
+/* shang*/
+#shang{
+	
+}
+#shang .container{
+	height:68px ;
+}
+#shang .zuo img{
+	margin-top:17px;
+	margin-left: 133px;
+}
+#shang .you p{
+	margin-top: 10px;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 80px;
+}
+
+
+#zhong{
+	width: 100%;
+	height: 553px;
+	position: relative;
+}
+#zhong img{
+	width: 100%;
+	height: 553px;
+	
+}
+/*tab*/
+
+#zhong .tab{
+	width: 378px;
+	height:488px ;
+	background: #fff;
+	position: absolute;
+	right: 148px;
+	top:64px;
+}
+
+#zhong .tab ul li{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}
+#zhong .tab ul li a{
+	color: #fff;
+	display: block;
+	width:174px ;
+	height: 40px;
+	background: #000000;
+}
+
+#zhong .tab ul{
+	padding: 24px 15px 0;
+}
+#zhong .tab ul .tab1 a{
+	background: #ccc;
+	color:#000 ;
+}
+#zhong .dv1 input{
+	width: 264px;
+	height: 36px;
+	border: 1px solid #000000;
+	margin-top: 20px;
+	margin-left: 32px;
+	padding-left: 54px;
+}
+
+.dv1{
+	position: relative;
+}
+#zhong .tab .dv1 span{
+	position:absolute ;
+	top:69px ;
+	left:36px ;
+}
+.dv2{
+	width: 316px;
+	height: 36px;
+	margin-left: 32px;
+	margin-top:20px ;
+	position: relative;
+}
+.dv2 input{
+	width: 145px;
+	height:36px ;
+	border:1px solid #000000 ;
+	padding-left: 53px;
+}
+ #zhong .dv2 img{
+	width: 110px;
+	height: 40px;
+}
+.dv2 span{
+	position: absolute;
+	top:10px;
+	left: 4px;
+}
+
+#zhong .tab  .p5{
+	margin-top: 7px;
+	margin-left: 30px;
+}
+.dv3{
+	margin-left: 32px;
+	margin-top: 7px;
+	position: relative;
+}
+.dv3 input{
+	width: 230px;
+	height: 36px;
+	border: 1px solid #000000;
+}
+#zhong .tab .dv3 span{
+	position: absolute;
+	left: 3px;
+	top: 8px;
+}
+#zhong .tab .dv3 i{
+	color: #fff;
+	font-size: 12px;
+	height: 38px;
+	line-height: 38px;
+	background: #000000;
+	display: inline-block;
+	height: 38px;
+	
+	
+}
+#zhong .tab .dv3 a{
+	color: #fff;
+}
+#zhong .tab .p6{
+	margin-top: 7px;
+	margin-left: 30px;
+	
+}
+#zhong .tab .dv4 input{
+	width: 264px;
+	height: 36px;
+	border: 1px solid #000000;
+	margin-top: 7px;
+	margin-left: 32px;
+	padding-left: 54px;
+}
+
+#zhong .tab .dv4{
+	position: relative;
+}
+#zhong .tab .dv4 span{
+	position: absolute;
+	left: 36px;
+	top:16px;
+}
+
+#zhong .tab .dv5 input{
+	width: 250px;
+	height: 36px;
+	border: 1px solid #000000;
+	margin-top: 25px;
+	margin-left: 32px;
+	padding-left: 68px;
+}
+
+
+#zhong .tab .dv5{
+	position: relative;
+}
+
+#zhong .tab .dv5 span{
+	position: absolute;
+	left: 36px;
+	top:33px;
+}
+#zhong .tab .p7{
+	margin-left: 99px;
+	margin-top:18px;
+	font-size: 12px;
+}
+#zhong .tab .dv6{
+	position: relative;
+}
+#zhong .tab .dv6 span{
+	position: absolute;
+	left: 78px;
+	top: -3px;
+}
+
+#zhong .tab .dv7 input{
+	width: 316px;
+	height: 36px;
+	border: 1px solid #000000;
+	margin-top: 6px;
+	margin-left: 32px;
+	background: #000000;
+	
+}
+#zhong .tab .dv7  a input{
+	text-align: center;
+	color: #fff;
+}
+
+
+
+
+
+
+*/
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+/*dibu*/
+#dibu .container{
+	height: 50px;
+	padding-top:34px;
+}
+#dibu p{
+	text-align: center;
+}
+
